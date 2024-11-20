@@ -29,33 +29,8 @@ ItemName_FR = {
 
         ItemName_Base.57Clip = "5,7x28 Mag 20 rounds",
 
-        ItemName_Base.Bullets57Box = "Boîte de 60 balles - 5,7x28",
-        ItemName_Base.Bullets380Box = "Boîte de 60 balles - 9x18",
-        ItemName_Base.Bullets45Box = "Boîte de 60 balles - .45ACP",
-        ItemName_Base.Bullets9mmBox = "Boîte de 60 balles - 9x19",
-        ItemName_Base.545x39Box = "Boîte de 60 balles - 5,45x39",
-        ItemName_Base.556Box = "Boîte de 60 cartouches - 5,56x45",
-        ItemName_Base.762x39Box = "Boîte de 60 cartouches - 7,62x39",
-        ItemName_Base.762x51Box = "Boîte de 60 balles - 7,62x51",
-        ItemName_Base.762x54rBox = "Boîte de 60 cartouches - 7,62x54",
-        ItemName_Base.50BMGBox = "Boîte de 60 cartouches - 50BMG",
-        ItemName_Base.ShotgunShellsBox = "Boîte de 20 cartouches 12ga",
-        ItemName_Base.20gShotgunShellsBox = "Boîte de 20 cartouches 20ga",
-        ItemName_Base.Bullets22Box = "Boîte de 100 cartouches - 22 Long Rifle",
-        ItemName_Base.Bullets357Box = "Boîte de 60 cartouches - .357MAG",
-        ItemName_Base.Bullets45LCBox = "Boîte de 60 balles - .45LC",
-        ItemName_Base.Bullets4570Box = "Boîte de 60 balles - 45.70",
-        ItemName_Base.3006Box = "Boîte de 30 cartouches - 30.06",
-
-        ItemName_Base.9x18Drum = "9x18 Mag 84 rounds",
-        ItemName_Base.380ExtClip = "9x18 Mag 30 rounds",
-        ItemName_Base.380StdClip = "9x18 Mag 15 rounds",
         ItemName_Base.Bullets380 = "9x18 Round",
-        ItemName_Base.380Clip = "9x18 Mag 7 rounds",
-
         ItemName_Base.AmmoCan30_380 = "Ammo Small Canister (9x18)",
-
-        ItemName_Base.Cigarettes = "Cigarette Marlboro",
         
         ItemName_Base.FirePlace_Poker = "FirePlace",
         ItemName_Base.FirePlace_Poker_B = "FirePlace",
@@ -587,40 +562,7 @@ ItemName_FR = {
         ItemName_Base.EFK_AKM_MK1 = "Arme à feu personnalisée AKM MK1",
         ItemName_Base.EFK_M4A1_MK1 = "Arme à feu personnalisée M4A1 MK1",
 
-        ItemName_Base.EFK_3MAmor_kit = "BNTI Module-3M body armor kit",
-        ItemName_Base.EFK_TOZ_kit = "Kit TOZ",
-        ItemName_Base.EFK_MP133_kit = "Kit MP-133",
-        ItemName_Base.EFK_545Drum_kit = "Kit 5.45 Drum Magazine",
-        ItemName_Base.EFK_Big_CannedTushonka_kit = "Kit Big Canned Tushonka",
-        ItemName_Base.EFK_CarBattery_kit = "Kit batterie voiture",
-        ItemName_Base.EFK_Spark_kit = "Kit bougies",
-        ItemName_Base.EFK_Iskra_kit = "Kit Iskra",
-        ItemName_Base.EFK_Ramen_kit = "Kit nouilles Ramen",
-        ItemName_Base.EFK_Tushonka_kit = "Kit de Tushonka en conserve",
-        ItemName_Base.EFK_BrokenGPhoneSmartphone_kit = "Kit GPhone cassé",
-        ItemName_Base.EFK_PC_CPU_kit = "Kit CPU",
-        ItemName_Base.EFK_PrintedCircuitBoard_kit = "Kit circuit imprimé",
-        ItemName_Base.EFK_Rechargeable_kit = "Kit de batteries rechargeables",
-        ItemName_Base.EFK_Power_Cord_kit = "Kit de cordon d'alimentation",
-        ItemName_Base.EFK_T_ShapedPlug_kit = "Kit de prise en forme de T",
-        ItemName_Base.EFK_GazAnaliseur_kit = "Gaz analizer kit",
-
-        ItemName_Base.EFK_rest_place_lvl1_kit = "Rest Place Level 1 Kit",
-        ItemName_Base.EFK_heating_lvl1_kit = "Kit chauffage niveau 1",
-        ItemName_Base.EFK_generator_lvl1_kit = "Kit générateur niveau 1",
-        ItemName_Base.EFK_medical_lvl1_kit = "Medical Bay Level 1 Kit",
-        ItemName_Base.EFK_lavatory_lvl1_kit = "Lavatory Level 1 Kit",
-        ItemName_Base.EFK_water_lvl1_kit = "Kit collecteur d'eau niveau 1",
-        ItemName_Base.EFK_vents_lvl2_kit = "Kit d'évents niveau 2",
-
-        ItemName_Base.EFK_lavatory_lvl2_kit = "Kit lavabo niveau 2",
-        ItemName_Base.EFK_security_lvl1_kit = "Kit de sécurité niveau 1",
-        ItemName_Base.EFK_security_lvl2_kit = "Kit de sécurité niveau 2",
-        ItemName_Base.EFK_illumination_lvl1_kit = "Kit d'illumination de niveau 1",
-        ItemName_Base.EFK_workbench_lvl1_kit = "Kit établi niveau 1",
-
-        ItemName_Base.EFK_NutritionTrader_lvl1_kit = "Kit Nutrition Niveau 1",
-        ItemName_Base.EFK_Max_Energy = "Can of Max Energy energy drink",
+        ItemName_Base.EFK_Max_Energy = "Canette de boisson énergisante Max Energy",
         ItemName_Base.EFK_BakeEzy = "Livre de cuisine BakeEzy",
         ItemName_Base.EFK_Squash = "Boîte de pâte à tartiner à la courge",
         ItemName_Base.EFK_Tushonka = "Boîte de ragoût de bœuf (petite)",
@@ -638,24 +580,7 @@ ItemName_FR = {
    ***********************************************/
 
         ItemName_Base.Pop2 = "Canette de soda RatCola",
-        ItemName_Base.EFK_Salewa_kit = "Kit de premiers secours Salewa Pack",
-        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
-        ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
-        ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
-        ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
-        ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
-        ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
-        ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
-        ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
-        ItemName_Base.EFK_ToubibInfo_Q7 = "Informations Toubib Quest 7",
-        ItemName_Base.EFK_ToubibInfo_Q8 = "Informations Toubib Quest 8",
-        ItemName_Base.EFK_SkierInfo_Q2 = "Informations Skier Quest 2",
-        ItemName_Base.EFK_SkierInfo_Q3 = "Informations Skier Quest 3",
-        ItemName_Base.EFK_SkierInfo_Q5 = "Informations Skier Quest 5",
-        ItemName_Base.EFK_SkierInfo_Q6 = "Informations Skier Quest 6",
-        ItemName_Base.EFK_SkierInfo_Q7 = "Informations Skier Quest 7",
-        ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
-        ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
+        ItemName_Base.EFK_HealDocumentation = "Manuel de guérison EFK",
 
    /**********************************************
                28/03/24
@@ -702,13 +627,6 @@ ItemName_FR = {
         ItemName_tactorgsol.scav_box = "Lucky Scav Junk box",
 
    /**********************************************
-               02/04/24
-               NEW
-   ***********************************************/     
-
-        ItemName_EFK_stash_lvl1_kit = "Stash Level 1 Kit",
-
-   /**********************************************
                05/04/24
                EDIT
    ***********************************************/
@@ -721,37 +639,37 @@ ItemName_FR = {
                NEW
    ***********************************************/
 
-        ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade backpack Dry Earth",
+        ItemName_Base.EFK_Eberlestock_F5 = "Sac à dos Eberlestock F5 Switchblade Dry Earth",
         ItemName_Base.EFK_T30 = "Sac à dos Gruppa 99 T30",
-        ItemName_Base.EFK_6Sh118 = "6Sh118 raid backpack Digital Flora",
-        ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field Med Pack Black",
-        ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 backpack MultiCam",
-        ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid backpack Khaki",
-        ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS frame system Coyote",
-        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack backpack MultiCam Black",
-        ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
-        ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II backpack Black",
-        ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 patrol backpack Digital Flora",
-        ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey",
+        ItemName_Base.EFK_6Sh118 = "Sac à dos de raid 6Sh118 Digital Flora",
+        ItemName_Base.EFK_LBT_2670 = "Sac à dos LBT-2670 Slim Field Med Pack Noir",
+        ItemName_Base.EFK_Ranch_Blackjack = "Sac à dos Mystery Ranch Blackjack 50 MultiCam",
+        ItemName_Base.EFK_Attack_2 = "Sac à dos de raid SSO Attack 2 Kaki",
+        ItemName_Base.EFK_COMM_BVS = "Système de cadre Mystery Ranch NICE COMM 3 BVS Coyote",
+        ItemName_Base.EFK_LBT_8005A = "Sac à dos LBT-8005A Day Pack MultiCam Noir",
+        ItemName_Base.EFK_LBT_1476A = "Sac à dos LBT-1476A 3Day Pack Woodland",
+        ItemName_Base.EFK_Dragon_Egg_Mark_II = "Sac à dos Direct Action Dragon Egg Mark II Noir",
+        ItemName_Base.EFK_RK_PT_25 = "Sac à dos de patrouille Tehinkom RK-PT-25 Digital Flora",
+        ItemName_Base.EFK_3V_Gear_Paratus = "Sac à dos tactique 3V Gear Paratus 3-Day Operator's Foliage Gris",
         ItemName_Base.EFK_Pilgrim = "Sac à dos touristique Pilgrim",
-        ItemName_Base.EFK_SATL_Bridger = "Mystery Ranch SATL Bridger Assault Pack Foliage",
+        ItemName_Base.EFK_SATL_Bridger = "Sac à dos d'assaut Mystery Ranch SATL Bridger Foliage",
 
-        ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO body armor MultiCam",
-        ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh body armor Digital Flora",
-        ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM body armor Black",
-        ItemName_Base.EFK_Gzhel = "BNTI Gzhel-K body armor",
-        ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk body armor Digital Flora",
-        ItemName_Base.EFK_Slick = "LBT-6094A Slick Plate Carrier",
-        ItemName_Base.EFK_Tactical_Hexgrid = "5.11 Tactical Hexgrid plate carrier",
-        ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 body armor Smog",
-        ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 body armor Full Protection Kit MultiCam",
-        ItemName_Base.EFK_Defender_2 = "FORT Defender-2 body armor",
-        ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 body armor Assault Kit MultiCam",
-        ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 body armor High Mobility Kit MultiCam",
-        ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC Plate Carrier Multicam Black",
-        ItemName_Base.EFK_MF_UNTAR = "MF-UNTAR body armor",
-        ItemName_Base.EFK_KlASS_Kora_Kulon = "NPP KlASS Kora-Kulon body armor",
-        ItemName_Base.EFK_BNTI_Zhuk_Press = "BNTI Zhuk body armor Press",
+        ItemName_Base.EFK_TFO_Trooper = "Armure corporelle HighCom Trooper TFO MultiCam",
+        ItemName_Base.EFK_Zabralo = "Armure corporelle 6B43 Zabralo-Sh Digital Flora",
+        ItemName_Base.EFK_Korund_VM = "Armure corporelle NPP KlASS Korund-VM Noire",
+        ItemName_Base.EFK_Gzhel = "Armure corporelle BNTI Gzhel-K",
+        ItemName_Base.EFK_BNTI_Zhuk = "Armure corporelle BNTI Zhuk Digital Flora",
+        ItemName_Base.EFK_Slick = "Porte-plaque LBT-6094A Slick",
+        ItemName_Base.EFK_Tactical_Hexgrid = "Porte-plaque 5.11 Tactical Hexgrid",
+        ItemName_Base.EFK_FORT_Redut_T5 = "Armure corporelle FORT Redut-T5 Smog",
+         ItemName_Base.EFK_IOTV_Full_Protect = "Armure corporelle IOTV Gen4 Kit de Protection Complète MultiCam",
+        ItemName_Base.EFK_Defender_2 = "Armure corporelle FORT Defender-2",
+        ItemName_Base.EFK_IOTV_Assault = "Armure corporelle IOTV Gen4 Kit d'Assaut MultiCam",
+        ItemName_Base.EFK_IOTV_Mobility = "Armure corporelle IOTV Gen4 Kit de Haute Mobilité MultiCam",
+        ItemName_Base.EFK_Hexatac_HPC = "Porte-plaque Hexatac HPC Multicam Noir",
+        ItemName_Base.EFK_MF_UNTAR = "Armure corporelle MF-UNTAR",
+        ItemName_Base.EFK_KlASS_Kora_Kulon = "Armure corporelle NPP KlASS Kora-Kulon",
+        ItemName_Base.EFK_BNTI_Zhuk_Press = "Armure corporelle BNTI Zhuk Presse",
 
         ItemName_Base.EFK_Small_Armor_Plate = "Petite plaque d'armure",
         ItemName_Base.EFK_Medium_Armor_Plate = "Plaque d'armure moyenne", ItemName_Base.EFK_Medium_Armor_Plate = "Plaque d'armure moyenne",
@@ -769,20 +687,6 @@ ItemName_FR = {
 
         ItemName_Base.EFK_GSSh_01 = "GSSh-01 active headset",
         ItemName_Base.EFK_Peltor_Sport = "Peltor Tactical Sport headset",
-
-   /**********************************************
-               12/04/24
-               EDIT
-   ***********************************************/
-
-        ItemName_Base.EFK_MP5_Stock = "HK MP5 9x19 mitraillette",
-        ItemName_Base.EFK_MP5_Fold = "HK MP5 9x19 mitraillette (Pliée)",
-        ItemName_Base.545StdClip = "Chargeur 5.45x39mm",
-        ItemName_Base.545Drum = "Chargeur 5.45x39mm",
-        ItemName_Base.556Clip = "chargeur 5.56x45mm",
-        ItemName_Base.556Drum = "chargeur 5.56x45mm",
-        ItemName_Base.AKClip = "chargeur 7.62x39mm",
-        ItemName_Base.762Drum = "chargeur 7.62x39mm",
 
    /**********************************************
                16/04/24
@@ -1106,5 +1010,255 @@ ItemName_FR = {
         ItemName_Base.EFK_TarCola = "Canette de soda TarCola",
         ItemName_Base.EFK_GreenTea = "Canette de thé vert glacé",
         ItemName_Base.EFK_PevkoBeer = "Bouteille de bière Pevko Light",
+
+   /**********************************************
+               17/08/24
+               NEW & Edit
+   ***********************************************/
+        ItemName_Base.EFK_SCARL_Fold = "FN SCAR-L 5.56x45 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_SCARL_Melee_Fold = "FN SCAR-L 5.56x45 fusil d'assaut (Plié) (Melee)",
+        ItemName_Base.EFK_SCARH_Fold = "FN SCAR-H 7.62x51 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_SCARH_Fold_Melee = "FN SCAR-H 7.62x51 fusil d'assaut (Plié) (Mêlée)",	
+        ItemName_Base.EFK_SVDS_Fold = "SVDS 7.62x54R fusil de sniper (Plié)",
+        ItemName_Base.EFK_SVDS_Fold_Melee = "SVDS 7.62x54R fusil de sniper (Plié) (Mêlée)",
+        ItemName_Base.EFK_AK101_Fold = "Kalashnikov AK-101 5.56x45 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_AK101_Fold_Melee = "Kalashnikov AK-101 5.56x45 fusil d'assaut (Plié) (Mêlée)",        
+        ItemName_Base.EFK_AK102_Fold = "Kalashnikov AK-102 5.56x45 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_AK102_Fold_Melee = "Kalashnikov AK-102 5.56x45 fusil d'assaut (Plié) (Mêlée)",
+        ItemName_Base.EFK_AK103_Fold = "Kalashnikov AK-103 7.62x39 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_AK103_Fold_Melee = "Kalashnikov AK-103 7.62x39 fusil d'assaut (Plié) (Mêlée)",
+        ItemName_Base.EFK_AK104_Fold = "Kalashnikov AK-104 7.62x39 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_AK104_Fold_Melee = "Kalashnikov AK-104 7.62x39 fusil d'assaut (Plié) (Mêlée)",
+        ItemName_Base.EFK_AK105_Fold = "Kalashnikov AK-105 5.45x39 fusil d'assaut (Plié)",
+        ItemName_Base.EFK_AK105_Fold_Melee = "Kalashnikov AK-105 5.45x39 fusil d'assaut (Plié) (Mêlée)",
+        ItemName_Base.EFK_SIG_MCX_Fold = "SIG MCX .300 Blackout fusil d'assaut (Plié)",
+        ItemName_Base.EFK_SIG_MCX_Fold_Melee = "SIG MCX .300 Blackout fusil d'assaut (Plié) (Mêlée)",
+
+        ItemName_Base.762x51StdClip = "Chargeur 10 coups 7.62x51mm NATO",
+        ItemName_Base.762x51ExtClip = "Chargeur 20 coups 7.62x51mm NATO",
+        ItemName_Base.ASHClip = "Chargeur 20 coups ASh-12 50 BMG",
+
+   /**********************************************
+               03/09/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.HuntingKnife = "Bars A-2607 95Kh18 knife",
+        ItemName_Base.EFK_2607_95Kh18 = "Bars A-2607 95Kh18 knife",
+        ItemName_Base.EFK_2607_Damascus = "Bars A-2607 Damascus knife",
+        ItemName_Base.EFK_6Kh5 = "6Kh5 Bayonet",
+
+   /**********************************************
+               07/09/24
+               NEW & Edit
+   ***********************************************/
+
+        ItemName_Base.EFK_Antique_Axe = "Antique Axe",
+        ItemName_Base.EFK_Camper_Axe = "Camper axe",
+        ItemName_Base.Crowbar = "Freeman crowbar",
+        ItemName_Base.Nightstick = "PR-Taran police baton",
+          ItemName_Base.Cigarettes = "Cigarette",
+
+   /**********************************************
+               08/09/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_NVG_MONOCULAR_ON = "AN/PVS-14 night vision monocular (ON)",
+        ItemName_Base.EFK_NVG_MONOCULAR_OFF = "AN/PVS-14 night vision monocular (OFF)",
+
+   /**********************************************
+               15/10/24
+                 New
+   ***********************************************/
+
+        ItemName_Base.EFK_3MAmor_SKIER = "BNTI Module-3M body armor",
+
+   /**********************************************
+               16/10/24
+                 New
+   ***********************************************/
+
+        ItemName_Base.EFK_Mosin_ExtClip = "Chargeur 10 coups Mosin Rifle 7.62x54R ProMag Archangel OPFOR",
+        ItemName_Base.EFK_SA58_Drum = "Chargeur tambour 50 coups SA-58/FAL 7.62x51 X Products X-FAL",
+        ItemName_Base.EFK_SA58_LClip = "Chargeur 30 coups SA-58/FAL 7.62x51",
+        ItemName_Base.EFK_SA58_Clip = "Chargeur 20 coups SA-58/FAL 7.62x51",
+        ItemName_Base.EFK_SA58_SClip = "Chargeur 10 coups SA-58/FAL 7.62x51",
+        ItemName_Base.EFK_VPO101_ExtClip = "Chargeur 10 coups VPO-101 7.62x51",
+        ItemName_Base.EFK_VPO101_Clip = "VPO-101 7.62x51 5-round magazine",
+        ItemName_Base.EFK_VPO101_Clip = "VPO-101 7.62x51 5-round magazine",
+        ItemName_Base.EFK_MP5_Stock = "Mitraillette HK MP5 9x19",
+        ItemName_Base.EFK_MP5_Fold = "Mitraillette HK MP5 9x19 (Pliée)",
+        ItemName_Base.556Clip = "Chargeur 30 coups 5.56x45 Colt AR-15 STANAG",
+        ItemName_Base.556Drum = "Chargeur tambour 60 coups 5.56x45 Magpul PMAG D-60 STANAG",
+        ItemName_Base.545Drum = "Chargeur tambour 95 coups RPK-16 5.45x39",
+        ItemName_Base.545StdClip = "Chargeur 30 coups AK-74 5.45x39 6L20",
+        ItemName_Base.EFK_556SClip = "Chargeur 20 coups 5.56x45 Magpul PMAG 20 GEN M3 STANAG",
+        ItemName_Base.EFK_556XSClip = "Chargeur 10 coups 5.56x45 Magpul PMAG 10 GEN M3 STANAG",
+        ItemName_Base.EFK_556ExtClip = "Chargeur 100 coups 5.56x45 SureFire MAG5-100 STANAG",
+        ItemName_Base.EFK_AK101_Clip = "Chargeur 30 coups AK-101 5.56x45 6L29",
+        ItemName_Base.EFK_TOZ_ExtClip = "Chargeur 5 coups TOZ-106 20ga MTs 20-01 Sb.3",
+        ItemName_Base.EFK_TOZ_LClip = "Chargeur 4 coups TOZ-106 20ga MTs 20-01 Sb.3",
+        ItemName_Base.EFK_TOZ_Clip = "Chargeur 2 coups TOZ-106 20ga MTs 20-01 Sb.3",
+        ItemName_Base.EFK_54539_ExtClip = "Chargeur 60 coups AK-74 5.45x39 6L31",
+        ItemName_Base.EFK_54539_LClip = "Chargeur 45 coups AK-74 5.45x39 6L26",
+        ItemName_Base.EFK_54539_SClip = "Chargeur 20 coups AK-74 Delta-Tek Saiga 545 5.45x39",
+        ItemName_Base.EFK_54539_XSClip = "Chargeur 10 coups AK-74 Saiga 545 5.45x39",
+        ItemName_Base.EFK_76239_Drum = "Chargeur tambour 75 coups 7.62x39mm Molot Arms",
+        ItemName_Base.EFK_76239_ExtClip = "Chargeur tambour 50 coups 7.62x39mm X Products X-47",
+        ItemName_Base.EFK_76239_LClip = "Chargeur 40 coups 7.62x39mm bakelite",
+        ItemName_Base.EFK_76239_Clip = "Chargeur 30 coups 7.62x39mm 6L10",
+        ItemName_Base.EFK_76239_SClip = "Chargeur 20 coups 7.62x39mm Magpul PMAG 20 GEN M3",
+        ItemName_Base.EFK_76239_XSClip = "Chargeur 10 coups 7.62x39mm métal nervuré",
+        ItemName_Base.MosinClip = "Chargeur 5 coups Mosin Rifle 7.62x54R",
+        ItemName_Base.EFK_M60_Clip = "Boîte d'assaut 100 coups M60 7.62x51 Capco",
+        ItemName_Base.EFK_RPD_Clip = "Boîte 100 coups RPD 7.62x39 Buben",
+        ItemName_Base.EFK_PKM_Clip = "Boîte 100 coups PK 7.62x54R",
+        ItemName_Base.EFK_SKS_Drum = "Chargeur tambour 75 coups SKS 7.62x39 KCI",
+        ItemName_Base.EFK_SKS_ExtClip = "Chargeur 35 coups SKS 7.62x39 ProMag AALVX",
+        ItemName_Base.EFK_SKS_Clip = "Chargeur 20 coups SKS 7.62x39 TAPCO 6610",
+        ItemName_Base.SKSClip = "Chargeur interne 10 coups SKS 7.62x39",
+        ItemName_Base.EFK_AUG_ExtClip = "Chargeur 42 coups Steyr AUG 5.56x45",
+        ItemName_Base.EFK_AUG_Clip = "Chargeur 30 coups Steyr AUG 5.56x45",
+        ItemName_Base.EFK_AUG_SClip = "Chargeur 10 coups Steyr AUG 5.56x45",
+        ItemName_Base.EFK_M1A_Drum = "Chargeur tambour 50 coups M14 7.62x51 X Products X-14",
+        ItemName_Base.EFK_M1A_ExtClip = "Chargeur 30 coups M14 7.62x51",
+        ItemName_Base.EFK_M1A_LClip = "Chargeur 20 coups M1A 7.62x51",
+        ItemName_Base.EFK_M1A_Clip = "Chargeur 10 coups M1A 7.62x51",
+        ItemName_Base.EFK_G28_ExtClip = "Chargeur 20 coups HK417/G28 7.62x51",
+        ItemName_Base.EFK_G28_Clip = "Chargeur 10 coups HK417/G28 7.62x51",
+        ItemName_Base.EFK_SCARH_Clip = "Chargeur 20 coups FN SCAR-H 7.62x51",
+        ItemName_Base.EFK_M700_ExtClip = "Chargeur 20 coups M700 7.62x51 ProMag AA-70",
+        ItemName_Base.EFK_M700_LClip = "Chargeur 10 coups M700 7.62x51 Wyatt's Outdoor",
+        ItemName_Base.EFK_M700_Clip = "Chargeur 5 coups M700 7.62x51 Wyatt's Outdoor",
+        ItemName_Base.EFK_T5000_Clip = "Chargeur 5 coups ORSIS T-5000M 7.62x51",
+        ItemName_Base.EFK_SVDS_ExtClip = "Chargeur 20 coups SVD 7.62x54R",
+        ItemName_Base.EFK_SVDS_Clip = "Chargeur 10 coups SVD 7.62x54R",
+        ItemName_Base.EFK_SV98_Clip = "Chargeur 10 coups SV-98 7.62x54R",
+        ItemName_Base.EFK_Mk18_Clip = "Chargeur 10 coups Mk-18 .338 LM",
+        ItemName_Base.EFK_AXMC_Clip = "Chargeur 10 coups AI AXMC .338 LM",
+        ItemName_Base.ASHClip = "Chargeur 20 coups ASh-12 12.7x55",
+        ItemName_Base.50BMGSpeed = "Cylindre 5 coups RSh-12 12.7x55",
+        ItemName_Base.EFK_939ExtClip = "Chargeur 30 coups VSS/VAL 9x39",
+        ItemName_Base.EFK_939Clip = "Chargeur 20 coups VSS/VAL 9x39 6L25",
+        ItemName_Base.EFK_SR2M_ExtClip = "Chargeur 30 coups SR-2M 9x21",
+        ItemName_Base.EFK_SR2M_Clip = "Chargeur 20 coups SR-2M 9x21",
+        ItemName_Base.EFK_SR1MP_Clip = "Chargeur 18 coups SR-1MP 9x21",
+        ItemName_Base.EFK_MP7_ExtClip = "Chargeur 40 coups HK MP7 4.6x30",
+        ItemName_Base.EFK_MP7_Clip = "Chargeur 30 coups HK MP7 4.6x30",
+        ItemName_Base.EFK_MP7_SClip = "Chargeur 20 coups HK MP7 4.6x30",
+        ItemName_Base.12gDrum = "Chargeur tambour 20 coups SOK-12 12/76 MaxRounds Powermag",
+        ItemName_Base.EFK_12g_ExtClip = "Chargeur 10 coups SOK-12 12/76 SAI-02",
+        ItemName_Base.SPASClip = "Chargeur 5 coups SOK-12 12/76 sb.5",
+        ItemName_Base.EFK_DE50_Clip = "Chargeur 7 coups Desert Eagle .50 AE",
+        ItemName_Base.EFK_CR50DS_Clip = "Cylindre 6 coups Chiappa Rhino .357",
+        ItemName_Base.EFK_DE357_Clip = "Chargeur 9 coups Desert Eagle .357",
+        ItemName_Base.EFK_kriss45_extended = "Chargeur 30 coups Glock .45 ACP KRISS G30 MagEx",
+        ItemName_Base.EFK_kriss45_clip = "Chargeur 13 coups Glock .45 ACP",
+        ItemName_Base.EFK_P90_Clip = "Chargeur 50 coups FN P90 5.7x28",
+        ItemName_Base.EFK_FN57_Clip = "Chargeur 20 coups FN Five-seveN 5.7x28",
+        ItemName_Base.EFK_Rhino200_Clip = "Cylindre 6 coups Chiappa Rhino 9x19",
+        ItemName_Base.EFK_UMP_Clip = "Chargeur 25 coups HK UMP .45 ACP",
+        ItemName_Base.EFK_M1911_ExtClip = "Chargeur 11 coups M1911A1 .45 ACP Mec-Gar",
+        ItemName_Base.EFK_M1911_Clip = "Chargeur 7 coups M1911A1 .45 ACP",
+        ItemName_Base.EFK_USP_Clip = "Chargeur 12 coups HK USP .45 ACP",
+        ItemName_Base.EFK_PP1901_LClip = "Chargeur 30 coups PP-19-01 Vityaz 9x19 PUFGUN SG-919 30",
+        ItemName_Base.EFK_PP1901_ExtClip = "Chargeur 30 coups PP-19-01 Vityaz 9x19",
+        ItemName_Base.EFK_PP1901_Clip = "Chargeur 20 coups PP-19-01 Vityaz 9x19 PUFGUN SG-919 20",
+        ItemName_Base.EFK_Saiga9_Clip = "Chargeur 10 coups Saiga-9 9x19 sb.7",
+        ItemName_Base.EFK_MPX_Drum = "Chargeur tambour 50 coups MPX 9x19 F5 MFG",
+        ItemName_Base.EFK_MPX_ExtClip = "Chargeur 41 coups MPX 9x19 TTI Base Pad +11",
+        ItemName_Base.EFK_MPX_LClip = "Chargeur 30 coups MPX 9x19",
+        ItemName_Base.EFK_MPX_Clip = "Chargeur 20 coups MPX 9x19",
+        ItemName_Base.EFK_P226_ExtClip = "Chargeur 20 coups P226 9x19",
+        ItemName_Base.EFK_P226_Clip = "Chargeur 15 coups P226 9x19",
+        ItemName_Base.EFK_PL15_Clip = "Chargeur 16 coups PL-15 9x19",
+        ItemName_Base.EFK_PP_ExtClip = "Chargeur 30 coups PP-91 Kedr 9x18PM",
+        ItemName_Base.EFK_PP_Clip = "Chargeur 20 coups PP-91 Kedr 9x18PM",
+        ItemName_Base.EFK_UZI_Drum = "Chargeur tambour 50 coups UZI 9x19",
+        ItemName_Base.EFK_UZI_ExtClip = "Chargeur 40 coups UZI 9x19",
+        ItemName_Base.EFK_UZI_Clip = "Chargeur 32 coups UZI 9x19",
+        ItemName_Base.EFK_UZI_SClip = "Chargeur 25 coups UZI 9x19",
+        ItemName_Base.EFK_UZI_ExtSClip = "Chargeur 20 coups UZI 9x19",
+        ItemName_Base.EFK_MP9_Drum = "Chargeur 30 coups MPX 9x19",
+        ItemName_Base.EFK_MP9_ExtClip = "Chargeur 25 coups MP9 9x19",
+        ItemName_Base.EFK_MP9_LClip = "Chargeur 20 coups MP9 9x19",
+        ItemName_Base.EFK_MP9_Clip = "Chargeur 15 coups MP9 9x19",
+        ItemName_Base.EFK_Grach_Clip = "Chargeur 18 coups MP-443 Grach 9x19",
+        ItemName_Base.EFK_MP5_Drum = "Chargeur tambour 50 coups HK MP5 9x19 X Products X-5",
+        ItemName_Base.EFK_MP5_ExtClip = "Chargeur 30 coups HK MP5 9x19",
+        ItemName_Base.EFK_MP5_Clip = "Chargeur 20 coups HK MP5 9x19",
+        ItemName_Base.EFK_Glock_ExtSmallClip = "Chargeur 21 coups Glock 9x19 Magpul PMAG GL9",
+        ItemName_Base.EFK_Glock_SmallClip = "Chargeur 31 coups Glock 9x19 Big Stick (Coyote)",
+        ItemName_Base.EFK_Glock_Drum = "Chargeur tambour 50 coups Glock 9x19 SGM Tactical",
+        ItemName_Base.EFK_Glock_ExtClip = "Chargeur 33 coups Glock 9x19 Big Stick",
+        ItemName_Base.EFK_Glock_LClip = "Chargeur 24 coups Glock 9x19 Big Stick (Coyote)",
+        ItemName_Base.EFK_Glock_Clip = "Chargeur 17 coups Glock 9x19",
+        ItemName_Base.EFK_M9A3_Clip = "Chargeur 17 coups M9A3 9x19",
+        ItemName_Base.EFK_PPSH_Drum = "Chargeur tambour 71 coups PPSh-41 7.62x25",
+        ItemName_Base.EFK_PPSH_Clip = "Chargeur 35 coups PPSh-41 7.62x25",
+        ItemName_Base.EFK_TT_Clip = "Chargeur 8 coups TT 7.62x25 tt-105",
+        ItemName_Base.9x18Drum = "Chargeur tambour improvisé 84 coups PM 9x18PM",
+        ItemName_Base.380Clip = "Chargeur 8 coups PM 9x18PM 90-93",
+        ItemName_Base.380StdClip = "Chargeur 20 coups APS 9x18PM",
+
+   /**********************************************
+               04/11/24
+               New&Fix
+   ***********************************************/
+
+        ItemName_Base.Bullets57Box = "Box of 50 rounds - 5.7x28mm",
+        ItemName_Base.Bullets380Box = "Box of 50 rounds - 9x18mm",
+        ItemName_Base.Bullets45Box = "Box of 50 rounds - .45ACP",
+        ItemName_Base.Bullets9mmBox = "Box of 50 rounds - 9x19mm",
+        ItemName_Base.545x39Box = "Box of 30 rounds - 5.45x39mm",
+        ItemName_Base.556Box = "Box of 50 rounds - 5.56x45mm",
+        ItemName_Base.762x39Box = "Box of 20 rounds - 7.62x39mm",
+        ItemName_Base.762x51Box = "Box of 20 rounds - 7.62x51mm",
+        ItemName_Base.762x54rBox = "Box of 20 rounds - 7.62x54mm",
+        ItemName_Base.50BMGBox = "Box of 20 rounds - 50BMG",
+        ItemName_Base.ShotgunShellsBox = "Box of 25 shells 12ga",
+        ItemName_Base.20gShotgunShellsBox = "Box of 25 shells 20ga",
+        ItemName_Base.Bullets22Box = "Box of 100 rounds - 22 Long Rifle",
+        ItemName_Base.Bullets357Box = "Box of 60 rounds - .357MAG",
+        ItemName_Base.Bullets45LCBox = "Box of 60 rounds - .45LC",
+        ItemName_Base.Bullets4570Box = "Box of 30 rounds - 45.70",
+        ItemName_Base.3006Box = "Box of 30 rounds - 30.06",
+
+        ItemName_Base.EFK_300Box = "Box of 50 rounds - .300 Blackout",
+        ItemName_Base.3006Bullets = ".300 Blackout ammunition",
+        ItemName_Base.EFK_76225Box = "Box of 25 rounds - 7.62x25mm",
+        ItemName_Base.EFK_76225Bullets = "7.62x25mm ammunition",
+        ItemName_Base.EFK_4630Box = "Box of 40 rounds - 4.6x30mm",
+        ItemName_Base.EFK_4630Bullets = "4.6x30mm ammunition",
+        ItemName_Base.EFK_6851Box = "Box of 20 rounds - 6.8x51mm",
+        ItemName_Base.EFK_6851Bullets = "6.8x51mm ammunition",
+        ItemName_Base.EFK_50AEBox = "Box of 25 rounds - .50AE",
+        ItemName_Base.EFK_50AEBullets = ".50 Action Express ammunition",
+        ItemName_Base.EFK_357Box = "Box of 25 rounds - .357",
+        ItemName_Base.EFK_357Bullets = ".357 Magnum ammunition",
+        ItemName_Base.EFK_KSBox = "Box of 5 rounds - 23x75mm",
+        ItemName_Base.EFK_KSShells = "23x75mm ammunition",
+        ItemName_Base.EFK_921Box = "Box of 30 rounds - 9x21mm",
+        ItemName_Base.EFK_921Bullets = "9x21mm Gyurza ammunition",
+        ItemName_Base.EFK_366Box = "Box of 20 rounds - .366TKM",
+        ItemName_Base.EFK_366Bullets = ".366TKM ammunition",
+
+   /**********************************************
+               13/11/24
+                 New
+   ***********************************************/
+
+        ItemName_Base.caisse_de_chargeurs = "Caisse de chargeurs",
+        ItemName_Base.caisse_de_grenades = "Caisse de grenades",
+        ItemName_Base.caisse_de_munitions = "Caisse de munitions",
+        ItemName_Base.caisse_medical = "Caisse médicale",
+        ItemName_Base.caisse_nourriture = "Sac thermique Mr. Holodilnick",
+        ItemName_Base.WeaponTHICCCase = "Caisse d'armes T H I C C",
+        ItemName_Base.ItemTHICCCase = "Caisse d'objets T H I C C",
+
+
+
+
 
 }
