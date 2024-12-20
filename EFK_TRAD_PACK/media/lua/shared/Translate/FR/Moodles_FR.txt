@@ -1,0 +1,15 @@
+Moodles_FR {
+
+    Moodles_Regen_Good_lvl3 = "Restaure les PV",
+    Moodles_Regen_Good_desc_lvl3 = "Vos PV globaux sont en cours de récupération.",	
+    
+    Moodles_Painkiller_Good_lvl3 = "Sous antidouleur",
+    Moodles_Painkiller_Good_desc_lvl3 = "L'effet de la douleur sera réduit ou ignoré.",
+    
+    Moodles_FreshWound_Good_lvl3 = "Blessure fraîche",
+    Moodles_FreshWound_Good_desc_lvl3 = "Vous avez une chance de saigner à nouveau.",
+
+    Moodles_Buff_Good_lvl3 = "Buff de stimulant",
+
+    Moodles_DeBuff_Good_lvl3 = "Debuff de stimulant"
+}
